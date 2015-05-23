@@ -4,6 +4,11 @@ On Saturday, April 25th 2015 a massive 7.8 richter scale earthquake hit Nepal. T
 
 Please help us by contributing to this important cause of rebuilding Nepal.
 
+## Authors
+
+- Author:: Girish Lamichhane (girish.lamichhane@gmail.com)
+- Author:: Suraj Thapa (thapa.suraj751@gmail.com)
+
 
 ## License
 
