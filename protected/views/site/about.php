@@ -106,36 +106,32 @@
             <h3>
                 <a href="#">Suraj Thapa</a>
             </h3>
-            <p class="off1">Lorem ipsum dolor sit amet conc tetur adipiscing raesen vestibuum molstie lacuiirhse
-                nean
-                nonummy dreriauris. Phasellllus portusce suscipit variusium sociis tot.</p>
+            <p class="off1">I am DevOps Engineer at Rackspace. I’ve always had an affinity for working to do something for underprivileged children's. The scale of catastrophe caused by the recent earthquakes in Nepal is staggering,  It's really heart wrenching to hear their story and I want to do what I can to fix it for them.
+                </p>
         </div>
         <div class="grid_2  wow fadeInRight" data-wow-delay="0.3s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img3.jpg" alt=""/>
             <h3>
                 <a href="#">Sally Sg</a>
             </h3>
-            <p class="off1">Lorem ipsum dolor sit amet conc tetur adipiscing raesen vestibuum molstie lacuiirhse
-                nean
-                nonummy dreriauris. Phasellllus portusce suscipit variusium sociis tot.</p>
+            <p class="off1"> I make carpets, I'm an entrepreneur based in Nepal. Current mission - rebuild Haibung, Sindhupalchowk.
+                </p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.4s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img2.jpg" alt=""/>
             <h3>
                 <a href="#">Dipesh Bhattarai</a>
             </h3>
-            <p class="off1">Lorem ipsum dolor sit amet conc tetur adipiscing raesen vestibuum molstie lacuiirhse
-                nean
-                nonummy dreriauris. Phasellllus portusce suscipit variusium sociis tot.</p>
+            <p class="off1">I am IT Infrastructure Support at Hall and Prior. Being a part of society, I believe in reaching out to help unprivileged people. That is the least we can offer them. I would like help where I can, as much as I can and make a difference.
+                </p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.5s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img2.jpg" alt=""/>
             <h3>
                 <a href="#">Hemanta Sapkota</a>
             </h3>
-            <p class="off1">Lorem ipsum dolor sit amet conc tetur adipiscing raesen vestibuum molstie lacuiirhse
-                nean
-                nonummy dreriauris. Phasellllus portusce suscipit variusium sociis tot.</p>
+            <p class="off1">I am IOS / Full Stack Engineer at Open Learning. The 2015 Nepal Earthquake has unleashed a humanitarian crisis of unprecedented scale. I’m interested in helping Nepal recover, ideally with innovative use of technologies.
+                </p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.6s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img3.jpg" alt=""/>
@@ -151,9 +147,7 @@
             <h3>
                 <a href="#">Girish Lamichhane</a>
             </h3>
-            <p class="off1">Lorem ipsum dolor sit amet conc tetur adipiscing raesen vestibuum molstie lacuiirhse
-                nean
-                nonummy dreriauris. Phasellllus portusce suscipit variusium sociis tot.</p>
+            <p class="off1">I am Software developer @ RentalCover / Carrentals. I have always wanted to do something good for the community in whatever way it may be. Hoping it will add up to something good.</p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img2.jpg" alt=""/>
