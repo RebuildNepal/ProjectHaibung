@@ -8,6 +8,7 @@ Please help us by contributing to this important cause of rebuilding Nepal.
 
 - Author:: Girish Lamichhane (girish.lamichhane@gmail.com)
 - Author:: Suraj Thapa (thapa.suraj751@gmail.com)
+- Author:: Hemanta Sapkota (laex.pearl@gmail.com)
 
 
 ## License
