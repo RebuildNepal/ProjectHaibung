@@ -158,7 +158,7 @@
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img2.jpg" alt=""/>
             <h3>
-                <a href="#">Rojesh Khatry</a>
+                <a href="#">Rojesh Khatri</a>
             </h3>
             <p class="off1">Lorem ipsum dolor sit amet conc tetur adipiscing raesen vestibuum molstie lacuiirhse
                 nean
