@@ -92,5 +92,16 @@ class SiteController extends Controller {
         $this->layout = 'other';
         $this->render('contact');
     }
+    
+    public function actionEvents(){
+        $this->layout = 'other';
+        $calendars = EventCalendar::model()->findAll(array('order' => 'EventDate ASC'));
+        $this->render('events', array('calendars' => $calendars));
+    }
+    
+    public function actionSummary(){
+        $this->layout = 'other';
+        $this->render('summary');
+    }
 
 }

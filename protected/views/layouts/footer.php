@@ -15,12 +15,6 @@
             <li>
                 <a href="#">FAQs</a>
             </li>
-            <li>
-                <a href="#">Sitemap</a>
-            </li>
-            <li>
-                <a href="#">Help</a>
-            </li>
         </ul>
     </div>
 </footer>

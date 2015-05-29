@@ -18,9 +18,6 @@
                         <li>
                             <a class="fa fa-twitter" href="#"></a>
                         </li>
-                        <li>
-                            <a class="fa fa-rss" href="#"></a>
-                        </li>
                     </ul>
 
                     <?php $this->renderPartial('//layouts/search'); ?>
