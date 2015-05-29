@@ -8,51 +8,22 @@
                     <div class="aside-border maxheight">
                         <h2>Events calendar</h2>
                         <ul class="event-list">
+                            <?php foreach($calendars as $calendar){?>
                             <li>
                                 <div class="box">
                                     <div class="box_left">
-                                        <p class="event_date">20 <br/><span>may</span></p>
+                                        <p class="event_date"><?php echo date('d',  strtotime($calendar->EventDate));?> <br/><span><?php echo date('M',  strtotime($calendar->EventDate));?></span></p>
                                     </div>
                                     <div class="box_cnt o__hidden">
                                         <h3>
-                                            <a href="#">Lorem ipsum dolor sit amet</a>
+                                            <a href="#"><?php echo $calendar->Title;?></a>
                                         </h3>
-                                        <p class="off1">Lorem ipsum dolor sit am nc
-                                            tetur adipi scing. Praesent ibm </p>
+                                        <p class="off1"><?php echo $calendar->Description;?></p>
                                         <a class="btn" href="#">more info</a>
                                     </div>
                                 </div>
                             </li>
-                            <li>
-                                <div class="box">
-                                    <div class="box_left">
-                                        <p class="event_date">15 <br/><span>may</span></p>
-                                    </div>
-                                    <div class="box_cnt o__hidden">
-                                        <h3>
-                                            <a href="#">Lorem ipsum dolor sit amet</a>
-                                        </h3>
-                                        <p class="off1">Lorem ipsum dolor sit amet,nc
-                                            tetur adipi scing. Praesenuum.</p>
-                                        <a class="btn" href="#">more info</a>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="box">
-                                    <div class="box_left">
-                                        <p class="event_date">11 <br/><span>may</span></p>
-                                    </div>
-                                    <div class="box_cnt o__hidden">
-                                        <h3>
-                                            <a href="#">Lorem ipsum dolor sit amet</a>
-                                        </h3>
-                                        <p class="off1">Lorem ipsum dolor sit amet, conc tetur adipi scing. Praesent
-                                            ibuum. </p>
-                                        <a class="btn" href="#">more info</a>
-                                    </div>
-                                </div>
-                            </li>
+                            <?php } ?>
                         </ul>
                     </div>
                 </div>

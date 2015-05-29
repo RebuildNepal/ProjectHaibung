@@ -25,9 +25,8 @@ class SiteController extends Controller {
      * when an action is not explicitly requested by users.
      */
     public function actionIndex() {
-        // renders the view file 'protected/views/site/index.php'
-        // using the default layout 'protected/views/layouts/main.php'
-        $this->render('index');
+        $calendars = EventCalendar::model()->findAll(array('order' => 'EventDate ASC'));
+        $this->render('index', array('calendars' => $calendars));
     }
 
     /**
@@ -85,7 +84,8 @@ class SiteController extends Controller {
 
     public function actionBlog() {
         $this->layout = 'other';
-        $this->render('blog');
+        $blogs = Blog::model()->findAll(array('order' => 'DateUpdated ASC'));
+        $this->render('blog', array('blogs' => $blogs));
     }
 
     public function actionContact() {
