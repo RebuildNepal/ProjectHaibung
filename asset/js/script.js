@@ -114,7 +114,7 @@ $(document).ready(function () {
 
     if ($('#camera01').length > 0) {
         $('#camera01').camera({
-            height: '52.56637168141%',
+            height: '35%',
             playPause: false,
             loader: 'none',
             navigation: true,
