@@ -85,31 +85,31 @@
         <div class="wrapper2">
             <div class="row">
                 <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
-                    <h2>Why Education?</h2>
+                    <h2>Why Haibung?</h2>
 
                     <div class="quote-box">
-                        <p>Education is our passport to the future, for tomorrow belongs to the people who prepare for it today.</p>
+                        <p>Haibung is one of the densely populated VDC in Sindupalchowk.  It home to about 576 odd families. Based on our field visit and preliminary research, about 90% of houses have been effected.</p>
 
                         <h3>
-                            <a href="#">Malcolm X</a>
+                            <a href="#">Goverment of Nepal</a>
                         </h3>
                     </div>
 
                     <div class="quote-box">
-                        <p>The educated differ from the uneducated as much as the living differ from the dead.</p>
+                        <p>All 5 schools have also collapsed due to the earthquake which means currently about 600 students are forced out of school.</p>
 
                         <h3>
-                            <a href="#">Aristotle</a>
+                            <a href="#">Unofficial Figure</a>
                         </h3>
                     </div>
 
                 </div>
                 <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
-                    <h2>Photostream</h2>
+                    <h2>More About Us</h2>
 
-                    <p>Lorem ipsum dolor sit amet, consec tetuer adipiscing. Praesent vestibu lum molestie. lacuiirhs.
-                        Aenean non ummy hendreriau. ris. Phasellllus. porta. Fusce suscipit varius mium sociis totdnatibus
-                        et magis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p>We are not a registered organization, but a team of dedicated Nepalese youth who are voluntarily working towards the goal of raising USD $17,000 to help rebuild school and help our nation in its rebuild process.
+			Every penny raised for this cause would be used on ground for school rebuild purpose and hence there is no any overhead/admin cost involved.
+			We pledge to rebuild all five schools by leveraging our resources/personal networks and with the help of volunteers in the village.</p>
 
                     <div class="row">
                         <div class="grid_2">
