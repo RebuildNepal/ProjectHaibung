@@ -11,45 +11,41 @@
                     </div>
                     <div class="box_cnt">
                         <h3>
-                            <a href="#">Lorem ipsum dolor sit amet, consec teer adipiscent vestibulum molestie
-                                lacuiirhs
-                                Aeneon my.
+                            <a href="#">How we started?
                             </a>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, conc tetur adipi scing. Praesent vestibuum
-                            molstie
-                            lacuiirhs. Aenean non ummy dreriauris. Phasellllus. porta. Fusce suscipit
-                            variusium
-                            sociis totdnatibus et magis dis parturient montes, nasceidiculus mus. Nulla
-                            dui.
-                            Fusce feugiatle. suada odio. Morbi nunc odio, gravida at.
-                            cursus nec, luctus a, lorem. </p>
-
-                        <p>Lorem ipsum dolor sitat consec tetuer adipiscing elit praesent vestibulum
-                            molestie
-                            lacus. Aenean non ummy henrerit mauris. Phasellus porta. Fusce suscipit
-                            varius mium
-                            sociis natoque penatibus et magnis dis. parturient montes, nascetur
-                            ridiculus mus.
-                            Nulla dui. Fusce feugiat malesuada odio. Lorem ipsum dolor sit amet
-                            conctetur adipiscing praesent vestibuum molstie lacuiirhs aenean non ummy
-                            dreriauris phasellllus. porta. Fusce suscipit variusium sociis totdnatibus
-                            et magis dis parturient montes. </p>
-
-                        <p>Nasceidiculus mus. Nulla dui. Fusce feugiatle. suada odio. Morbi nunc odio,
-                            gravida
-                            atcursus nec, luctus a, lorem. Lorem ipsum dolor sitat consec tetuer
-                            adipiscing elit
-                            praesent vestibulum molestie lacus. Aenean non ummy henrerit mauris.
-                            Phasellus
-                            porta. Fusce suscipit varius mium sociis natoque penatibus et magnis dis.
-                            parturient
-                            montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio.
-                            Morbi nunc
-                            odio, gravida at, cursus nec, luctus a, lorem. Praesent vestibulum molestie
-                            lacus.
-                            Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius
-                            mi. </p>
+                        <p>On April 25, a devastating 7.8 magnitude earthquake struck Nepal, tearing apart the
+                            very fabric of our lives. For quite some time, experts had been warning us of this
+                            imminent earthquake, but no one could have possibly fathomed the level of destruction
+                            that this earthquake would wreak.</p>
+                        
+                        <p>The earthquake went on to claim the lives of more than 8,500 people, leaving thousands
+                            injured and millions homeless. In less than a minute of the ground shaking, the iconic
+                            Dharahara tower that once stood as a tall white pillar of hope for the entire nation had fallen.
+                            Many ancient temples that were so integral to the Nepalese culture were reduced to rubble.
+                            As the destruction unraveled before us, the meaning of our lives and priorities also took a
+                            new direction.</p>
+ 
+                        <p>The earthquake initially shook us all but the spirit to help our fellow citizens didn’t take
+                            long to arise. After a couple of sleepless nights we started knocking on every door that we could,
+                            tirelessly leveraging social media to raise money from colleagues at work to dispatch some
+                            immediate supplies such as water purifiers, foods, sleeping bags, tents and blankets through
+                            Nepalese Army to different parts of Nepal. Each of us was initially working independently but it
+                            didn’t take long for us to realize that if we could harness this into a collective effort and work
+                            together, we could do so much more.</p>
+ 
+                        <p>A new sense of unity and integrity has emerged, especially amongst the Nepalese youth who have
+                            initiated rebuilding Nepal. We are a part of this movement and are driven to work for this cause from
+                            our heart. We are a team of motivated and like-minded people committed towards pushing this initiative
+                            as far as possible. Our aim is to ensure that every single dollar we raise is spent on the victims of
+                            this earthquake and their communities.</p>
+ 
+                        <p>Our education has given us the opportunity to lead better lives, and we believe that underprivileged
+                            children who have become victims of this earthquake should not be stripped off this opportunity. It is
+                            essential for these kids to continue going to school so they can study, hope and aspire to have great
+                            futures.</p>
+ 
+                        <p>So here we are with Project Haibung. We invite each and every one of you to join us to help #RebuildNepal.</p>
                     </div>
                 </div>
             </div>
@@ -60,35 +56,27 @@
                 <ul class="number-list">
                     <li data-number="1">
                         <h3>
-                            <a href="#">Lorem ipsum dolor sit amet</a>
+                            <a href="#">Help Rebuild Nepal</a>
                         </h3>
-                        <p class="off1">Lorem ipsum dolor sit amet conc tetur adipiscing raesen vestibuum
-                            molstie
-                            lacuiirhsenean
-                            nonummy dreriauris. Phasellllus porta.</p>
-
+                        <p class="off1">When a great calamity occurs, it’s natural to feel overwhelmed.
+                            But each of us has a part to play.<p>
                         <div class="clearfix"></div>
                     </li>
                     <li data-number="2">
                         <h3>
-                            <a href="#">Praesent vestibulum moles</a>
+                            <a href="#">School for earthquake victime in Haibung</a>
                         </h3>
-                        <p class="off1">Lorem ipsum dolor sit amet conc tetur adipiscing raesen vestibuum
-                            molstie
-                            lacuiirhsenean
-                            nonummy dreriauris. Phasellllus porta fusce suscipit variusium sociis.</p>
-
+                        <p class="off1">We pledge to rebuild schools by leveraging our
+                          resources/personal networks and with the help of volunteers in the village.</p>
                         <div class="clearfix"></div>
                     </li>
                     <li data-number="3">
                         <h3>
-                            <a href="#">Vestibulum iaculis lacinia</a>
+                            <a href="#">Every dollar ratio</a>
                         </h3>
-                        <p class="off1">Lorem ipsum dolor sit amet conc tetur adipiscing raesen vestibuum
-                            molstie
-                            lacuiirhsenean
-                            nonummy dreriauris. Phasellllus porta fusce suscipit variusium sociis.</p>
-
+                        <p class="off1">We are not a registered organization, but a team of dedicated
+                         Nepalese youth who are voluntarily working towards the goal of raising
+                         USD $17,000 to help rebuild school and help our nation in its rebuild process.</p>
                         <div class="clearfix"></div>
                     </li>
                 </ul>

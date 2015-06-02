@@ -6,6 +6,6 @@ return array(
     //'connectionString' => 'mysql:host=127.0.0.1:8889;dbname=projecthaibungDB',
     'emulatePrepare' => true,
     'username' => 'root',
-    'password' => 'root',
+    'password' => 'p@haibung',
     'charset' => 'utf8',
 );
