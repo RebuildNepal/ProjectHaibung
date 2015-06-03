@@ -20,7 +20,7 @@
                         </li>
                     </ul>
 
-                    <?php $this->renderPartial('//layouts/search'); ?>
+                    <?php //$this->renderPartial('//layouts/search'); ?>
                     <div class="clearfix"></div>
                 </div>
                 <?php $this->renderPartial('//layouts/nav'); ?>

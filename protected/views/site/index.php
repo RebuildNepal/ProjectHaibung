@@ -88,15 +88,14 @@
                     <h2>Why Haibung?</h2>
 
                     <div class="quote-box">
-                        <p>Haibung is one of the densely populated VDC in Sindupalchowk.  It home to about 576 odd families. Based on our field visit and preliminary research, about 90% of houses have been effected.</p>
-
+                        <p>Haibung is one of the densely populated VDC in Sindupalchowk. It home to about 576 odd families. Based on our field visit and preliminary research, about 90% of houses have been effected.</p> 
                         <h3>
-                            <a href="#">Goverment of Nepal</a>
+                            <a href="#">Field Visit</a>
                         </h3>
                     </div>
 
                     <div class="quote-box">
-                        <p>All 5 schools have also collapsed due to the earthquake which means currently about 600 students are forced out of school.</p>
+                        <p>All 5 schools have also collapsed due to the earthquake which means currently about 720 students have no means of learning until schools are rebuilt.</p>
 
                         <h3>
                             <a href="#">Unofficial Figure</a>
@@ -105,12 +104,10 @@
 
                 </div>
                 <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
-                    <h2>More About Us</h2>
+                    <h2>Who we are?</h2>
 
-                    <p>We are not a registered organization, but a team of dedicated Nepalese youth who are voluntarily working towards the goal of raising USD $17,000 to help rebuild school and help our nation in its rebuild process.
-			Every penny raised for this cause would be used on ground for school rebuild purpose and hence there is no any overhead/admin cost involved.
-			We pledge to rebuild all five schools by leveraging our resources/personal networks and with the help of volunteers in the village.</p>
-
+                    <p>We are not a registered organization. We are a team of dedicated Nepali youth who have pledged to rebuild three schools in Haibung by leveraging our resources/personal networks and with the help of volunteers in the village.</p> 
+                    <a class="btn" href="<?php echo Yii::app()->createUrl('site/about'); ?>">more info</a>
                     <div class="row">
                         <div class="grid_2">
                             <div class="img-wrap">

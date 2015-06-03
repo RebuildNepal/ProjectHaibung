@@ -6,7 +6,6 @@
             <div data-src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/child2.jpeg" data-thumb="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/child2.jpeg">
             </div>
             <div data-src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/child.jpeg" data-thumb="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/child.jpeg">
-            <div data-src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/child.jpeg" data-thumb="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/child.jpeg">
             </div>
         </div>
     </div>
