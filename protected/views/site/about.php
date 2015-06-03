@@ -92,7 +92,7 @@
 
     <div class="row row__in">
         <div class="grid_2  wow fadeInRight" data-wow-delay="0.2s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img2.jpg" alt=""/>
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/suraj.jpg" alt=""/>
             <h3>
                 <a href="#">Suraj Thapa</a>
             </h3>
