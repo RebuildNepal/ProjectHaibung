@@ -1,4 +1,4 @@
 nbproject/
 assets/
 protected/runtime
-protected/config/database.php
+protected/config/
