@@ -103,5 +103,10 @@ class SiteController extends Controller {
         $this->layout = 'other';
         $this->render('summary');
     }
+    
+    public function actionDonor(){
+        $this->layout = 'other';
+        $this->render('donor');
+    }
 
 }

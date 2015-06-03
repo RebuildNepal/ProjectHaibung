@@ -30,7 +30,7 @@
                 <?php echo $this->renderPartial('_index'); ?>
                 <div class="grid_3  wow fadeInRight" data-wow-delay="0.2s">
                     <div style="margin-bottom: 20px">
-                        <a href="#"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/donate.jpeg"></a>
+                        <a href="http://igg.me/at/projecthaibung/x/10971723" target="_blank"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/donate.jpeg"></a>
                     </div>
 
                     <div>
@@ -39,9 +39,6 @@
                         <ul class="icon-list" style="margin-top: 20px">
                             <li>
                                 <div class="box">
-                                    <div class="box_left">
-                                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile.png" alt=""/>
-                                    </div>
                                     <div class="box_cnt o__hidden">
                                         <p>
                                             <span style="font-weight: bold">Surya Ply</span><br>
@@ -52,9 +49,6 @@
                             </li>
                             <li>
                                 <div class="box">
-                                    <div class="box_left">
-                                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile.png" alt=""/>
-                                    </div>
                                     <div class="box_cnt o__hidden">
                                         <p>
                                             <span style="font-weight: bold">Sarawagi Rugs</span><br>
@@ -65,9 +59,6 @@
                             </li>
                             <li>
                                 <div class="box">
-                                    <div class="box_left">
-                                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile.png" alt=""/>
-                                    </div>
                                     <div class="box_cnt o__hidden">
                                         <p>
                                             <span style="font-weight: bold">Pavle Uroda</span><br>
@@ -78,9 +69,6 @@
                             </li>
                             <li>
                                 <div class="box">
-                                    <div class="box_left">
-                                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile.png" alt=""/>
-                                    </div>
                                     <div class="box_cnt o__hidden">
                                         <p>
                                             <span style="font-weight: bold">Fiona Castelino</span><br>
@@ -91,6 +79,30 @@
                             </li>
                         </ul>
                     </div>
+                </div>
+            </div>
+        </div>
+        <hr/>
+        <div class="wrapper2">
+            <div class="row">
+                <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+                    <h2> At Haibung!</h2>
+
+                    <div class="quote-box">
+                        <p>Write something here so it doesnot look weird</p>
+                    </div>
+
+                    <div class="quote-box">
+                        <p>Write something here so it doesnot look weird the 2nd time :)</p>
+                    </div>
+                    
+                    <div class="quote-box">
+                        <p>Write something here so it doesnot look weird again :)</p>
+                    </div>
+
+                </div>
+                <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
+                    <iframe width="560" height="380" src="https://www.youtube.com/embed/9wordXxHwak" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
