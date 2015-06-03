@@ -44,8 +44,8 @@
                                     </div>
                                     <div class="box_cnt o__hidden">
                                         <p>
-                                            <span style="font-weight: bold">Lorem ipsum</span><br>
-                                            Amount: $300
+                                            <span style="font-weight: bold">Surya Ply</span><br>
+                                            Donation in kind: Plywood
                                         </p>
                                     </div>
                                 </div>
@@ -57,8 +57,8 @@
                                     </div>
                                     <div class="box_cnt o__hidden">
                                         <p>
-                                            <span style="font-weight: bold">Lorem ipsum</span><br>
-                                            Amount: $300
+                                            <span style="font-weight: bold">Sarawagi Rugs</span><br>
+                                            Amount: $2080
                                         </p>
                                     </div>
                                 </div>
@@ -70,8 +70,21 @@
                                     </div>
                                     <div class="box_cnt o__hidden">
                                         <p>
-                                            <span style="font-weight: bold">Lorem ipsum</span><br>
-                                            Amount: $300
+                                            <span style="font-weight: bold">Pavle Uroda</span><br>
+                                            Amount: $500
+                                        </p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="box">
+                                    <div class="box_left">
+                                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile.png" alt=""/>
+                                    </div>
+                                    <div class="box_cnt o__hidden">
+                                        <p>
+                                            <span style="font-weight: bold">Fiona Castelino</span><br>
+                                            Amount: $500
                                         </p>
                                     </div>
                                 </div>
@@ -88,7 +101,7 @@
                     <h2>Why Haibung?</h2>
 
                     <div class="quote-box">
-                        <p>Haibung is one of the densely populated VDC in Sindupalchowk. It home to about 576 odd families. Based on our field visit and preliminary research, about 90% of houses have been effected.</p> 
+                        <p>Haibung is a village of 576 families in Sindhupalchowk district where 95% of the houses have been collapsed including all of its five schools. Almost 720 children who come from a poor family background now have no access to learning and are out of school. Their only hope for better future is through education and now they are being stripped off this opportunity.</p>
                         <h3>
                             <a href="#">Field Visit</a>
                         </h3>
@@ -98,7 +111,7 @@
                         <p>All 5 schools have also collapsed due to the earthquake which means currently about 720 students have no means of learning until schools are rebuilt.</p>
 
                         <h3>
-                            <a href="#">Unofficial Figure</a>
+                            <a href="#">Filed Visit</a>
                         </h3>
                     </div>
 
