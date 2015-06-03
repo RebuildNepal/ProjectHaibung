@@ -10,10 +10,7 @@
         </p>
         <ul class="list">
             <li>
-                <a href="#">Support</a>
-            </li>
-            <li>
-                <a href="#">FAQs</a>
+                <p>Email: projecthaibung@gmail.com</p>
             </li>
         </ul>
     </div>
