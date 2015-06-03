@@ -58,8 +58,8 @@
                         <h3>
                             <a href="#">Help Rebuild Nepal</a>
                         </h3>
-                        <p class="off1">When a great calamity occurs, it’s natural to feel overwhelmed.
-                            But each of us has a part to play.<p>
+                        <p class="off1">When a great calamity occurs, it’s natural to
+                            feel overwhelmed. But each of us has a part to play.<p>
                         <div class="clearfix"></div>
                     </li>
                     <li data-number="2">
@@ -67,16 +67,17 @@
                             <a href="#">School for earthquake victime in Haibung</a>
                         </h3>
                         <p class="off1">We pledge to rebuild schools by leveraging our
-                          resources/personal networks and with the help of volunteers in the village.</p>
+                          resources/personal networks and with the help of volunteers in
+                           the village.</p>
                         <div class="clearfix"></div>
                     </li>
                     <li data-number="3">
                         <h3>
                             <a href="#">Every dollar ratio</a>
                         </h3>
-                        <p class="off1">We are not a registered organization, but a team of dedicated
-                         Nepalese youth who are voluntarily working towards the goal of raising
-                         USD $17,000 to help rebuild school and help our nation in its rebuild process.</p>
+                        <p class="off1">We are not a registered organization, but a team
+                        of dedicated Nepalese youth who are voluntarily working towards
+                        the goal of raising funds to help rebuild school and help our nation in its rebuild process.</p>
                         <div class="clearfix"></div>
                     </li>
                 </ul>
@@ -102,8 +103,7 @@
             <h3>
                 <a href="#">Sally Sg</a>
             </h3>
-            <p class="off1"> I make carpets, I'm an entrepreneur based in Nepal. Current mission - rebuild Haibung, Sindhupalchowk.
-                </p>
+            <p class="off1">I am an entrepreneur based in Kathmandu, Nepal. My company makes hand knotted Nepalese carpets. Our scholarship program sends all of our weavers’ children to school. 150 students have graduated from our program and 61 are currently enrolled. My current mission - #ProjectHaibung</p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.4s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img2.jpg" alt=""/>
