@@ -4,12 +4,12 @@
     <div class="row">
         <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
             <div class="partner">
-                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img13.png" alt=""/>
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rackspace.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Rackspace</a>
+                        <a href="#">Rackspace Sydney</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Sponsored Hosting Platform</p>
                 </div>
             </div>
         </div>
@@ -18,9 +18,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img14.png" alt=""/>
                 <div class="partner_cnt o__hidden">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -29,9 +29,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img15.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -40,9 +40,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img16.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -53,9 +53,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img13.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -64,9 +64,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img14.png" alt=""/>
                 <div class="partner_cnt o__hidden">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -75,9 +75,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img15.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -86,9 +86,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img16.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -104,9 +104,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img13.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -115,9 +115,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img14.png" alt=""/>
                 <div class="partner_cnt o__hidden">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -126,9 +126,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img15.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -137,9 +137,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img16.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -150,9 +150,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img13.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -161,9 +161,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img14.png" alt=""/>
                 <div class="partner_cnt o__hidden">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -172,9 +172,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img15.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>
@@ -183,9 +183,9 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img16.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>

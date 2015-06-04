@@ -11,7 +11,7 @@
                     </div>
                     <div class="box_cnt">
                         <h3>
-                            <a href="#">How we started?
+                            <a href="#">How did we star?
                             </a>
                         </h3>
                         <p>On April 25, a devastating 7.8 magnitude earthquake struck Nepal, tearing apart the
@@ -40,9 +40,9 @@
                             as far as possible. Our aim is to ensure that every single dollar we raise is spent on the victims of
                             this earthquake and their communities.</p>
  
-                        <p>Our education has given us the opportunity to lead better lives, and we believe that underprivileged
-                            children who have become victims of this earthquake should not be stripped off this opportunity. It is
-                            essential for these kids to continue going to school so they can study, hope and aspire to have great
+                        <p>Our education has given us the opportunity to lead better lives, and we believe that underprivileged 
+                            children who have become victims of this earthquake should not be stripped of this opportunity. It is 
+                            essential for these kids to continue going to school so they can study, hope and aspire to have great 
                             futures.</p>
  
                         <p>So here we are with Project Haibung. We invite each and every one of you to join us to help #RebuildNepal.</p>
@@ -52,11 +52,11 @@
         </div>
         <div class="grid_3  wow fadeInRight" data-wow-delay="0.2s">
             <div class="maxheight">
-                <h2>Objectives and Goals</h2>
+                <h2>Goals</h2>
                 <ul class="number-list">
                     <li data-number="1">
                         <h3>
-                            <a href="#">School for earthquake victime in Haibung</a>
+                            <a href="#">School for earthquake victims in Haibung</a>
                         </h3>
                         <p class="off1">We pledge to rebuild schools by leveraging our
                           resources/personal networks and with the help of volunteers in
@@ -88,11 +88,10 @@
             <h3>
                 <a href="#">Suraj Thapa</a>
             </h3>
-            <p class="off1">I am DevOps Engineer at Rackspace. I’ve always had an affinity for working to do
-            something for underprivileged children's. The scale of catastrophe caused by the recent earthquakes 
-            in Nepal is staggering,  It's really heart wrenching to hear their story and I want to do what I can 
-            to fix it for them.
-                </p>
+            <p class="off1">I am a DevOps Engineer at Rackspace. I’ve always had an affinity for 
+            working to do something for underprivileged children. The scale of catastrophe caused 
+            by the recent earthquakes in Nepal is staggering, It's really heart wrenching to hear 
+            their stories and I want to do whatever I can to help them.</p>
         </div>
         <div class="grid_2  wow fadeInRight" data-wow-delay="0.3s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/shally.jpg" alt=""/>
@@ -127,7 +126,7 @@
             <h3>
                 <a href="#">Pragya Uprety</a>
             </h3>
-            <p class="off1">I am a Category & Shopper Insights Analyst at Henkel. There is no greater gift in
+            <p class="off1">I am Category & Shopper Insights Analyst at Henkel. There is no greater gift in
             life than being able to give back. As a Nepalese, I know there has been no better time than this
             to give back to my motherland. I am willing to put all my effort in to achieve our goal of positively
             touching lives of our countrymen in whatever way possible.</p>

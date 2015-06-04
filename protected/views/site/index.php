@@ -103,7 +103,7 @@
                     </div>
                     
                     <div class="quote-box">
-                        <p>Let us not let this earthquake strip off the children right to education. </p>
+                        <p>Let us not let this earthquake strip away a child's right to education.</p>
                     </div>
 
                 </div>
@@ -120,13 +120,13 @@
                   
                     <h3></h3>
                     <div>
-                        <p>Haibung is a village of 576 families in Sindhupalchowk district where 95% of the houses have been collapsed including all of its five schools. Almost 720 children who come from poor family background now have no access to learning and are out of school. Their only hope for better future is through education and now they are being stripped off this opportunity.</p>
+                        <p>Haibung is a village of 576 families in Sindhupalchowk district where 95% of the houses have been destroyed including all of its five schools. Almost 720 children who come from poor family backgrounds now have no access to learning and are out of school. Their only hope for a better future is through education and now they are being stripped of this opportunity.</p>
                     </div>
                 </div>
                 <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
                     <h2>Who we are?</h2>
 
-                    <p>We are not a registered organization. We are a team of dedicated Nepali youth who have pledged to rebuild three schools in Haibung by leveraging our resources/personal networks and with the help of volunteers in the village.</p> 
+                    <p>We are not a registered organization. We are a team of dedicated Nepali youth who have pledged to rebuild three schools in Haibung by leveraging our resources and personal networks together with the help of volunteers in the village.</p>
                     <a class="btn" href="<?php echo Yii::app()->createUrl('site/about'); ?>">more info</a>
                     <h3></h3>
                     <div class="row">
