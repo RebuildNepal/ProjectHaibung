@@ -89,7 +89,7 @@
                     <h2>#ProjectHaibung!</h2>
 
                     <div class="quote-box">
-                        <p>100% of the funds it raises directly to rebuild schools for the benefit of about 720 children in Haibung, Nepal. </p>
+                        <p>100% of the funds raised will go directly to rebuild schools for the benefit of about 720 children in Haibung, Nepal. </p>
                     </div>
 
                 </div>
