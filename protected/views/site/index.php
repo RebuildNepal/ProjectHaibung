@@ -104,27 +104,16 @@
                 <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
                     <h2>Why Haibung?</h2>
 
-                    <div class="quote-box">
+                    <div>
                         <p>Haibung is a village of 576 families in Sindhupalchowk district where 95% of the houses have been collapsed including all of its five schools. Almost 720 children who come from a poor family background now have no access to learning and are out of school. Their only hope for better future is through education and now they are being stripped off this opportunity.</p>
-                        <h3>
-                            <a href="#">Field Visit</a>
-                        </h3>
                     </div>
-
-                    <div class="quote-box">
-                        <p>All 5 schools have also collapsed due to the earthquake which means currently about 720 students have no means of learning until schools are rebuilt.</p>
-
-                        <h3>
-                            <a href="#">Filed Visit</a>
-                        </h3>
-                    </div>
-
                 </div>
                 <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
                     <h2>Who we are?</h2>
 
                     <p>We are not a registered organization. We are a team of dedicated Nepali youth who have pledged to rebuild three schools in Haibung by leveraging our resources/personal networks and with the help of volunteers in the village.</p> 
                     <a class="btn" href="<?php echo Yii::app()->createUrl('site/about'); ?>">more info</a>
+                    <h3></h3>
                     <div class="row">
                         <div class="grid_2">
                             <div class="img-wrap">

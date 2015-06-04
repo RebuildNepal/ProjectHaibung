@@ -112,7 +112,7 @@
             and 61 are currently enrolled. My current mission - #ProjectHaibung</p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.4s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img2.jpg" alt=""/>
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/dpace.jpg" alt=""/>
             <h3>
                 <a href="#">Dipesh Bhattarai</a>
             </h3>
@@ -149,7 +149,7 @@
             the community in whatever way it may be. Hoping it will add up to something good.</p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img2.jpg" alt=""/>
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rojesh.jpg" alt=""/>
             <h3>
                 <a href="#">Rojesh Khatri</a>
             </h3>
