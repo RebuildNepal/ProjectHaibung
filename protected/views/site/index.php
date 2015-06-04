@@ -91,6 +91,10 @@
                     <div class="quote-box">
                         <p>100% of the funds raised will go directly to rebuild schools for the benefit of about 720 children in Haibung, Nepal. </p>
                     </div>
+                    
+                    <div class="quote-box">
+                        <p>Let us not let this earthquake strip off the children right to education. </p>
+                    </div>
 
                 </div>
                 <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
