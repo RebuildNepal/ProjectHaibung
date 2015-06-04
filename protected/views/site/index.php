@@ -86,23 +86,15 @@
         <div class="wrapper2">
             <div class="row">
                 <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
-                    <h2> At Haibung!</h2>
+                    <h2>#ProjectHaibung!</h2>
 
                     <div class="quote-box">
-                        <p>Write something here so it doesnot look weird</p>
-                    </div>
-
-                    <div class="quote-box">
-                        <p>Write something here so it doesnot look weird the 2nd time :)</p>
-                    </div>
-                    
-                    <div class="quote-box">
-                        <p>Write something here so it doesnot look weird again :)</p>
+                        <p>100% of the funds it raises directly to rebuild schools for the benefit of about 720 children in Haibung, Nepal. </p>
                     </div>
 
                 </div>
                 <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
-                    <iframe width="560" height="380" src="https://www.youtube.com/embed/9wordXxHwak" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="560" height="380" src="http://youtu.be/noFHdM8F-qc" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
