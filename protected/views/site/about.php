@@ -127,7 +127,7 @@
             <h3>
                 <a href="#">Pragya Uprety</a>
             </h3>
-            <p class="off1">I am a Category & Shopper Insights Analyst at Henkel. There is no greater gift in
+            <p class="off1">I am Category & Shopper Insights Analyst at Henkel. There is no greater gift in
             life than being able to give back. As a Nepalese, I know there has been no better time than this
             to give back to my motherland. I am willing to put all my effort in to achieve our goal of positively
             touching lives of our countrymen in whatever way possible.</p>
