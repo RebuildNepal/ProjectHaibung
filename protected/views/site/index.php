@@ -120,7 +120,7 @@
                   
                     <h3></h3>
                     <div>
-                        <p>Haibung is a village of 576 families in Sindhupalchowk district where 95% of the houses have been collapsed including all of its five schools. Almost 720 children who come from a poor family background now have no access to learning and are out of school. Their only hope for better future is through education and now they are being stripped off this opportunity.</p>
+                        <p>Haibung is a village of 576 families in Sindhupalchowk district where 95% of the houses have been collapsed including all of its five schools. Almost 720 children who come from poor family background now have no access to learning and are out of school. Their only hope for better future is through education and now they are being stripped off this opportunity.</p>
                     </div>
                 </div>
                 <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
