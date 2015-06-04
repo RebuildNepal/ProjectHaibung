@@ -2,9 +2,6 @@
 <div class="wrapper2">
             <div id="filters" class="button-group  wow fadeInRight" data-wow-delay="0.3s">
                 <a class="button active" data-filter="*" href="#">All</a>
-                <a class="button" data-filter=".praesent" href="#">Praesent</a>
-                <a class="button" data-filter=".vestibulum" href="#">Vestibulum</a>
-                <a class="button" data-filter=".perspiciatis" href="#">Perspiciatis</a>
             </div>
             <div class="clearfix"></div>
             <div class="isotope">
