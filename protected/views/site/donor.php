@@ -7,7 +7,7 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img13.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Company Name</a>
+                        <a href="#">Rackspace</a>
                     </h3>
                     <p>Lorem ipsum dolor sit am</p>
                 </div>
