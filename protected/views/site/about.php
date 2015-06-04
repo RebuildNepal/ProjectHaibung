@@ -54,7 +54,7 @@
             <div class="maxheight">
                 <h2>Objectives and Goals</h2>
                 <ul class="number-list">
-                    <li data-number="2">
+                    <li data-number="1">
                         <h3>
                             <a href="#">School for earthquake victime in Haibung</a>
                         </h3>
@@ -63,7 +63,7 @@
                            the village.</p>
                         <div class="clearfix"></div>
                     </li>
-                    <li data-number="3">
+                    <li data-number="2">
                         <h3>
                             <a href="#">Every dollar ratio</a>
                         </h3>
