@@ -3,10 +3,12 @@
             <div class="company">
                 <div class="company_cnt">
                     <h1 class="name">
-                        <a href="<?php echo Yii::app()->createUrl('/');?>">Project Haibung</a>
+                        <a href="<?php echo Yii::app()->createUrl('/');?>">
+                            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/HaibungBlue.png" alt="" width="200px" height="150px"/>
+                        </a>
                     </h1>
 
-                    <p class="company_slogan">"आज नगरे कहिले! हामीले नगरे कस्ले?"</p>
+                    <p class="company_slogan" style="padding-left: 10px">"आज नगरे कहिले! हामीले नगरे कस्ले?"</p>
                 </div>
             </div>
             <div class="wrap">

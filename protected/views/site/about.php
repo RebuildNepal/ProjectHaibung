@@ -141,13 +141,16 @@
             touching lives of our countrymen in whatever way possible.</p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page2-img2.jpg" alt=""/>
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/girish_profile.jpg" alt=""/>
             <h3>
                 <a href="#">Girish Lamichhane</a>
             </h3>
             <p class="off1">I am Software developer @ RentalCover / Carrentals. I have always wanted to do something good for
             the community in whatever way it may be. Hoping it will add up to something good.</p>
         </div>
+    </div>
+    
+    <div class="row row__in">
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rojesh.jpg" alt=""/>
             <h3>
