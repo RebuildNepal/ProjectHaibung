@@ -56,14 +56,6 @@
                 <ul class="number-list">
                     <li data-number="1">
                         <h3>
-                            <a href="#">Help Rebuild Nepal</a>
-                        </h3>
-                        <p class="off1">When a great calamity occurs, it’s natural to
-                            feel overwhelmed. But each of us has a part to play.<p>
-                        <div class="clearfix"></div>
-                    </li>
-                    <li data-number="2">
-                        <h3>
                             <a href="#">School for earthquake victime in Haibung</a>
                         </h3>
                         <p class="off1">We pledge to rebuild schools by leveraging our
@@ -71,7 +63,7 @@
                            the village.</p>
                         <div class="clearfix"></div>
                     </li>
-                    <li data-number="3">
+                    <li data-number="2">
                         <h3>
                             <a href="#">Every dollar ratio</a>
                         </h3>
@@ -105,7 +97,7 @@
         <div class="grid_2  wow fadeInRight" data-wow-delay="0.3s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/shally.jpg" alt=""/>
             <h3>
-                <a href="#">Sally Sg</a>
+                <a href="#">Shally Sarawagi</a>
             </h3>
             <p class="off1">I am an entrepreneur based in Kathmandu, Nepal. My company makes hand knotted Nepalese carpets.
             Our scholarship program sends all of our weavers’ children to school. 150 students have graduated from our program
