@@ -52,11 +52,11 @@
         </div>
         <div class="grid_3  wow fadeInRight" data-wow-delay="0.2s">
             <div class="maxheight">
-                <h2>Objectives and Goals</h2>
+                <h2>Goals</h2>
                 <ul class="number-list">
                     <li data-number="1">
                         <h3>
-                            <a href="#">School for earthquake victime in Haibung</a>
+                            <a href="#">School for earthquake victims in Haibung</a>
                         </h3>
                         <p class="off1">We pledge to rebuild schools by leveraging our
                           resources/personal networks and with the help of volunteers in
