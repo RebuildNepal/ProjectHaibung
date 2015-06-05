@@ -14,7 +14,7 @@
             </li>
             <li>
              <a href="<?php echo Yii::app()->createUrl('/');?>">
-             <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rackspace.jpg" alt="" width="300px" height="200px"/>
+             <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rackspace.jpg" alt="" width="200px" height="100px"/>
              </a>
             </li>
         </ul>
