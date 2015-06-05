@@ -4,12 +4,12 @@
     <div class="row">
         <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
             <div class="partner">
-                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rackspace.png" alt=""/>
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page1-img14.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
-                        <a href="#">Rackspace Sydney</a>
+                        <a href="#">Coming Soon...</a>
                     </h3>
-                    <p>Sponsored Hosting Platform</p>
+                    <p>Coming Soon...</p>
                 </div>
             </div>
         </div>

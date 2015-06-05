@@ -41,16 +41,6 @@
                                 <div class="box">
                                     <div class="box_cnt o__hidden">
                                         <p>
-                                            <span style="font-weight: bold">Rackspace, Sydney</span><br>
-                                           Sponsored: Hosting Platform 
-                                        </p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="box">
-                                    <div class="box_cnt o__hidden">
-                                        <p>
                                             <span style="font-weight: bold">Surya Ply</span><br>
                                             Donation in kind: Plywood
                                         </p>
