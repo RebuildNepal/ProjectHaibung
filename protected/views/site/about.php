@@ -80,7 +80,7 @@
 </div>
 <hr class="wow fadeInUp" data-wow-delay="0.3s"/>
 <div class="wrapper2">
-    <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Our Team</h2>
+    <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Core Team Members</h2>
 
     <div class="row row__in">
         <div class="grid_2  wow fadeInRight" data-wow-delay="0.2s">
@@ -112,15 +112,6 @@
             and make a difference.
                 </p>
         </div>
-        <div class="grid_2 wow fadeInRight" data-wow-delay="0.5s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/hemanta.jpg" alt=""/>
-            <h3>
-                <a href="#">Hemanta Sapkota</a>
-            </h3>
-            <p class="off1">I am IOS / Full Stack Engineer at Open Learning. The 2015 Nepal Earthquake has unleashed a humanitarian
-            crisis of unprecedented scale. I’m interested in helping Nepal recover, ideally with innovative use of technologies.
-                </p>
-        </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.6s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/pragya.jpg" alt=""/>
             <h3>
@@ -140,14 +131,48 @@
             the community in whatever way it may be. Hoping it will add up to something good.</p>
         </div>
     </div>
-    
+</div>
+<hr class="wow fadeInUp" data-wow-delay="0.3s"/>
+<div class="wrapper2">
+    <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Extended Team Members</h2>
+
     <div class="row row__in">
-        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rojesh.jpg" alt=""/>
+        <div class="grid_2 wow fadeInRight" data-wow-delay="0.5s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/hemanta.jpg" alt=""/>
             <h3>
-                <a href="#">Rojesh Khatri</a>
+                <a href="#">Hemanta Sapkota</a>
             </h3>
-            <p class="off1">I am student of MIT at University of Technology Sydney.</p>
+            <p class="off1">I am IOS / Full Stack Engineer at Open Learning. The 2015 Nepal Earthquake has unleashed a humanitarian
+            crisis of unprecedented scale. I’m interested in helping Nepal recover, ideally with innovative use of technologies.
+                </p>
         </div>
+        <div class="grid_2  wow fadeInRight" data-wow-delay="0.2s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
+            <h3>
+                <a href="#">Parashu Nepal</a>
+            </h3>
+            <p class="off1">I am Managing director at International Development Institute(IDI) in Washington, DC, USA. Pleased to be part of young energetic team for the betterment of our motherland</p>
+        </div>
+	      <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+	          <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rojesh.jpg" alt=""/>
+	          <h3>
+		          <a href="#">Rojesh Khatri</a>
+	          </h3>
+	          <p class="off1">I am student of MIT at University of Technology Sydney.</p>
+	    </div>
+	      <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+	          <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
+	          <h3>
+		          <a href="#">George Quinlan</a>
+	          </h3>
+	          <p class="off1">I am Happy to help.</p>
+	    </div>
+	      <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+	          <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_girl.jpg" alt=""/>
+	          <h3>
+		          <a href="#">Tenzing Pela</a>
+	          </h3>
+	          <p class="off1">I am currently pursuing MBA at Thunderbird School of Global Management.</p>
+	    </div>
     </div>
 </div>
