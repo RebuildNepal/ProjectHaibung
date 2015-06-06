@@ -2,6 +2,11 @@
 <div class="wrapper2">
             <div id="filters" class="button-group  wow fadeInRight" data-wow-delay="0.3s">
                 <a class="button active" data-filter="*" href="#">All</a>
+                <a class="button" data-filter=".praesent" href="#">School1</a>
+                <a class="button" data-filter=".vestibulum" href="#">School2</a>
+                <a class="button" data-filter=".perspiciatis" href="#">School3</a>
+                <a class="button" data-filter=".school4" href="#">School4</a>
+            </div>
             </div>
             <div class="clearfix"></div>
             <div class="isotope">
@@ -30,7 +35,7 @@
                     <p class="off1">Earthquake took everything down except blackboard.</p>
                 </div>
                 <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.1s"
-                     data-category="praesent">
+                     data-category="vestibulum">
                     <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img3_original.jpg">
                         <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img3.jpg" alt=""/>
                         <span class="overlay"></span>
@@ -42,7 +47,7 @@
                     <p class="off1">Remains of class room after the earthquake.</p>
                 </div>
                 <div class="element-item grid_4 perspiciatis  wow fadeInLeft" data-wow-delay="0.1s"
-                     data-category="perspiciatis">
+                     data-category="vestibulum">
                     <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img4_original.jpg">
                         <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img4.jpg" alt=""/>
                         <span class="overlay"></span>
@@ -56,7 +61,7 @@
                 </div>
 
                 <div class="element-item grid_4 praesent  wow fadeInLeft" data-wow-delay="0.2s"
-                     data-category="praesent">
+                     data-category="vestibulum">
                     <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img5_original.jpg">
                         <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img5.jpg" alt=""/>
                         <span class="overlay"></span>
@@ -70,7 +75,7 @@
                 </div>
 
                 <div class="element-item grid_4 vestibulum  wow fadeInLeft" data-wow-delay="0.3s"
-                     data-category="vestibulum">
+                     data-category="perspiciatis">
                     <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img6_original.jpg">
                         <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img6.jpg" alt=""/>
                         <span class="overlay"></span>
@@ -83,7 +88,7 @@
                     </p>
                 </div>
                 <div class="element-item grid_4 perspiciatis  wow fadeInRight" data-wow-delay="0.1s"
-                     data-category="perspiciatis">
+                     data-category="school4">
                     <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img7_original.jpg">
                         <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img7.jpg" alt=""/>
                         <span class="overlay"></span>
@@ -97,7 +102,7 @@
                 </div>
 
                 <div class="element-item grid_4 perspiciatis  wow fadeInRight" data-wow-delay="0.2s"
-                     data-category="perspiciatis">
+                     data-category="school4">
                     <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img8_original.jpg">
                         <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img8.jpg" alt=""/>
                         <span class="overlay"></span>
@@ -110,7 +115,7 @@
                 </div>
 
                 <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
-                     data-category="praesent">
+                     data-category="school4">
                     <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img9_original.jpg">
                         <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img9.jpg" alt=""/>
                         <span class="overlay"></span>
@@ -120,6 +125,30 @@
                         <a href="#">School 4: Haibung Mahadustan Secondary School</a>
                     </h3>
                     <p class="off1">Block 4, locals clearing out rubble</p>
+                </div>
+                <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+                     data-category="All">
+                    <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img10_original.jpg">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img10.jpg" alt=""/>
+                        <span class="overlay"></span>
+                        <span class="hover">zoom</span>
+                    </a>
+                    <h3>
+                        <a href="#">Part 1: Goverment Approval Letter</a>
+                    </h3>
+                    <p class="off1">Approval letter to rebuild school</p>
+                </div>
+                <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+                     data-category="All">
+                    <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img11_original.jpg">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img11.jpg" alt=""/>
+                        <span class="overlay"></span>
+                        <span class="hover">zoom</span>
+                    </a>
+                    <h3>
+                        <a href="#">Part 2: Goverment Approval Letter</a>
+                    </h3>
+                    <p class="off1">Approval letter to rebuild school</p>
                 </div>
             </div>
         </div>
