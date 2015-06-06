@@ -5,7 +5,7 @@
                 <a class="button" data-filter=".praesent" href="#">School1</a>
                 <a class="button" data-filter=".vestibulum" href="#">School2</a>
                 <a class="button" data-filter=".perspiciatis" href="#">School3</a>
-                <a class="button" data-filter=".school4" href="#">School4</a>
+                <a class="button" data-filter="*" href="#">School4</a>
             </div>
             </div>
             <div class="clearfix"></div>
