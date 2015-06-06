@@ -6,7 +6,7 @@
         <p class="copyright">
             <span id="copyright-year"></span> &copy;
             <a href="index-5.html">Privacy Policy</a>
-            Project Haibung,         projecthaibung@gmail.com</p>
+            Project Haibung,         contact@projecthaibung.org</p>
         <ul class="list">
             <li>
              <a href="<?php echo Yii::app()->createUrl('/');?>">
