@@ -15,7 +15,7 @@
                     <h3>
                         <a href="#">School 1: Kalika Sharan Lower Secondary School</a>
                     </h3>
-                    <p class="off1">120 students from class 1 to 8 use to study in this school.</p>
+                    <p class="off1">120 students from class 1 to 8 used to study in this school.</p>
                 </div>
                 <div class="element-item grid_4 vestibulum  wow fadeInRight" data-wow-delay="0.2s"
                      data-category="vestibulum">
@@ -27,7 +27,7 @@
                     <h3>
                         <a href="#">School1: Only blackboard remains.</a>
                     </h3>
-                    <p class="off1">Earthquake took everything down except backboard.</p>
+                    <p class="off1">Earthquake took everything down except blackboard.</p>
                 </div>
                 <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.1s"
                      data-category="praesent">
@@ -39,7 +39,7 @@
                     <h3>
                         <a href="#">School 1: Kalika Sharan Lower Secondary School</a>
                     </h3>
-                    <p class="off1">Remains of class room after an earthquake.</p>
+                    <p class="off1">Remains of class room after the earthquake.</p>
                 </div>
                 <div class="element-item grid_4 perspiciatis  wow fadeInLeft" data-wow-delay="0.1s"
                      data-category="perspiciatis">
@@ -51,7 +51,7 @@
                     <h3>
                         <a href="#">School 2: Ananteshwori Primary School, Ward # 4</a>
                     </h3>
-                    <p class="off1">45 students from class 1 to 5 use to study in this school.
+                    <p class="off1">45 students from class 1 to 5 used to study in this school.
                     </p>
                 </div>
 
@@ -65,7 +65,7 @@
                     <h3>
                         <a href="#">School 2: Ananteshwori Primary School, Ward #4</a>
                     </h3>
-                    <p class="off1">Wall of school which is about to collaps.
+                    <p class="off1">Wall of the school which is about to collaps.
                     </p>
                 </div>
 
@@ -79,7 +79,7 @@
                     <h3>
                         <a href="#">School 3: Nimna Madhyamik School, Ward #3</a>
                     </h3>
-                    <p class="off1">50 students from class 1 to 3 use to study in this school.
+                    <p class="off1">50 students from class 1 to 3 used to study in this school.
                     </p>
                 </div>
                 <div class="element-item grid_4 perspiciatis  wow fadeInRight" data-wow-delay="0.1s"
@@ -92,7 +92,7 @@
                     <h3>
                         <a href="#">School 4: Haibung Mahadustan Secondary School</a>
                     </h3>
-                    <p class="off1">400 students from class 1 to 10 use to study in this school.
+                    <p class="off1">400 students from class 1 to 10 used to study in this school.
                     </p>
                 </div>
 
