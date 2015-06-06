@@ -114,7 +114,7 @@
                     </div>
                 </div>
                 <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
-                    <h2>Who we are?</h2>
+                    <h2>Who are we?</h2>
 
                     <p>We are not a registered organization. We are a team of dedicated Nepali youth who have pledged to rebuild three schools in Haibung by leveraging our resources and personal networks together with the help of volunteers in the village.</p>
                     <a class="btn" href="<?php echo Yii::app()->createUrl('site/about'); ?>">more info</a>

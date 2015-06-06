@@ -13,10 +13,9 @@
                         <span class="hover">zoom</span>
                     </a>
                     <h3>
-                        <a href="#">Class room of Ananteshwori Primary School.</a>
+                        <a href="#">School 1: Kalika Sharan Lower Secondary School</a>
                     </h3>
-                    <p class="off1">Remainings of one of the class of Ananteshwori Primary School, Ward #4.
-                    In this school, 45 students from class 1 to 5 used to study.</p>
+                    <p class="off1">120 students from class 1 to 8 use to study in this school.</p>
                 </div>
                 <div class="element-item grid_4 vestibulum  wow fadeInRight" data-wow-delay="0.2s"
                      data-category="vestibulum">
@@ -26,7 +25,7 @@
                         <span class="hover">zoom</span>
                     </a>
                     <h3>
-                        <a href="#">Only blackboard remains.</a>
+                        <a href="#">School1: Only blackboard remains.</a>
                     </h3>
                     <p class="off1">Earthquake took everything down except backboard.</p>
                 </div>
@@ -38,10 +37,89 @@
                         <span class="hover">zoom</span>
                     </a>
                     <h3>
-                        <a href="#">Block 5 of Haibung Mahadustan Secondary School</a>
+                        <a href="#">School 1: Kalika Sharan Lower Secondary School</a>
                     </h3>
-                    <p class="off1">Block 5 of Haibung Mahadustan Secondary School completely collapsed. In this
-                    school, 400 students use to study from class 1 to 10.</p>
+                    <p class="off1">Remains of class room after an earthquake.</p>
+                </div>
+                <div class="element-item grid_4 perspiciatis  wow fadeInLeft" data-wow-delay="0.1s"
+                     data-category="perspiciatis">
+                    <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img4_original.jpg">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img4.jpg" alt=""/>
+                        <span class="overlay"></span>
+                        <span class="hover">zoom</span>
+                    </a>
+                    <h3>
+                        <a href="#">School 2: Ananteshwori Primary School, Ward # 4</a>
+                    </h3>
+                    <p class="off1">45 students from class 1 to 5 use to study in this school.
+                    </p>
+                </div>
+
+                <div class="element-item grid_4 praesent  wow fadeInLeft" data-wow-delay="0.2s"
+                     data-category="praesent">
+                    <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img5_original.jpg">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img5.jpg" alt=""/>
+                        <span class="overlay"></span>
+                        <span class="hover">zoom</span>
+                    </a>
+                    <h3>
+                        <a href="#">School 2: Ananteshwori Primary School, Ward #4</a>
+                    </h3>
+                    <p class="off1">Wall of school which is about to collaps.
+                    </p>
+                </div>
+
+                <div class="element-item grid_4 vestibulum  wow fadeInLeft" data-wow-delay="0.3s"
+                     data-category="vestibulum">
+                    <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img6_original.jpg">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img6.jpg" alt=""/>
+                        <span class="overlay"></span>
+                        <span class="hover">zoom</span>
+                    </a>
+                    <h3>
+                        <a href="#">School 3: Nimna Madhyamik School, Ward #3</a>
+                    </h3>
+                    <p class="off1">50 students from class 1 to 3 use to study in this school.
+                    </p>
+                </div>
+                <div class="element-item grid_4 perspiciatis  wow fadeInRight" data-wow-delay="0.1s"
+                     data-category="perspiciatis">
+                    <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img7_original.jpg">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img7.jpg" alt=""/>
+                        <span class="overlay"></span>
+                        <span class="hover">zoom</span>
+                    </a>
+                    <h3>
+                        <a href="#">School 4: Haibung Mahadustan Secondary School</a>
+                    </h3>
+                    <p class="off1">400 students from class 1 to 10 use to study in this school.
+                    </p>
+                </div>
+
+                <div class="element-item grid_4 perspiciatis  wow fadeInRight" data-wow-delay="0.2s"
+                     data-category="perspiciatis">
+                    <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img8_original.jpg">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img8.jpg" alt=""/>
+                        <span class="overlay"></span>
+                        <span class="hover">zoom</span>
+                    </a>
+                    <h3>
+                        <a href="#">School 4: Haibung Mahadustan Secondary School</a>
+                    </h3>
+                    <p class="off1">Block 3 of Haibung Mahadustan Secondary School</p>
+                </div>
+
+                <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+                     data-category="praesent">
+                    <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img9_original.jpg">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page3-img9.jpg" alt=""/>
+                        <span class="overlay"></span>
+                        <span class="hover">zoom</span>
+                    </a>
+                    <h3>
+                        <a href="#">School 4: Haibung Mahadustan Secondary School</a>
+                    </h3>
+                    <p class="off1">Block 4, locals clearing out rubble</p>
                 </div>
             </div>
         </div>

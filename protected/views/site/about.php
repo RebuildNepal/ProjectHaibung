@@ -11,7 +11,7 @@
                     </div>
                     <div class="box_cnt">
                         <h3>
-                            <a href="#">How did we star?
+                            <a href="#">How did we start?
                             </a>
                         </h3>
                         <p>On April 25, a devastating 7.8 magnitude earthquake struck Nepal, tearing apart the
