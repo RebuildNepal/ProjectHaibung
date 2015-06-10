@@ -9,7 +9,7 @@
         <p>We are a team of Nepalese living in Nepal and abroad, working closely with local youth in Haibung. We are determined to provide these children with a safe and secure learning environment.</p>
         <p>This project does not end with the physical buildings. With your help we will continue to support the children of Haibung by providing mentoring, career counselling and scholarship opportunities.</p>
         
-        <p><a href="https://drive.google.com/file/d/0Bxav3qco08CYTTQ0YkdmVXI5Mkk/edit" target="_blank" id="view-proposal" style="padding: 10px; margin:10px 0; color: white; font-weight: bold; background-color: #3399FF;">View Our Proposal Here ...</a></p>
+        <p><a href="https://drive.google.com/file/d/0Bxav3qco08CYY2xJWjJMS0hhTXM/view?usp=sharing" target="_blank" id="view-proposal" style="padding: 10px; margin:10px 0; color: white; font-weight: bold; background-color: #3399FF;">View Our Proposal Here ...</a></p>
         
         <a class="btn" href="<?php echo Yii::app()->createUrl('site/summary');?>">more info</a>
     </div>
