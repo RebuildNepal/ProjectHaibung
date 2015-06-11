@@ -22,11 +22,15 @@
         </div>
         <div class="clearfix"></div>
         <div class="post_cnt">
-            <img class="mt-img img-border" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/page4-img1.jpg" alt=""/>
             <div class="o__hidden">
                 <?php echo $blog->Description;?>
-                <a class="btn" href="#">read more</a>
+                <!--<a class="btn" href="#">read more</a>-->
             </div>
+        </div>
+        
+        <div class="clearfix"></div>
+        
+        <div style="margin-top: 10px">
         </div>
     </div>
     <?php } ?>
