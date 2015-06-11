@@ -22,6 +22,7 @@
         </div>
         <div class="clearfix"></div>
         <div class="post_cnt">
+            <img class="mt-img img-border" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/blog_pic.jpg" alt="" width="300px" height="300px"/>
             <div class="o__hidden">
                 <?php echo $blog->Description;?>
                 <!--<a class="btn" href="#">read more</a>-->
