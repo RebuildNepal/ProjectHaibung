@@ -358,4 +358,28 @@
         </div>
 
     </div>
+    <div class="row">
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">William M Keller</a>
+                    </h3>
+                    <p><b>USD $25</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Yuping Guo</a>
+                    </h3>
+                    <p><b>USD $100</b></p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
