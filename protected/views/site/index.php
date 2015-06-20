@@ -91,7 +91,7 @@
                     <div class="quote-box">
                         <p>100% of the funds raised will go directly to rebuild schools for the benefit of about 720 children in Haibung, Nepal. </p>
                     </div>
-                    
+
                     <div class="quote-box">
                         <p>Let us not let this earthquake strip away a child's right to education.</p>
                     </div>
@@ -107,7 +107,7 @@
             <div class="row">
                 <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
                     <h2>Why Haibung?</h2>
-                  
+
                     <h3></h3>
                     <div>
                         <p>Haibung is a village of 576 families in Sindhupalchowk district where 95% of the houses have been destroyed including all of its five schools. Almost 720 children who come from poor family backgrounds now have no access to learning and are out of school. Their only hope for a better future is through education and now they are being stripped of this opportunity.</p>
@@ -149,6 +149,30 @@
             </div>
         </div>
         <hr/>
+        <div class="wrapper2 wrapper2__in1">
+            <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Our Sponsors</h2>
+
+            <div class="row">
+                <div class="grid_4  wow fadeInLeft" data-wow-delay="0.2s">
+                    <div class="partner">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/surya.jpeg" alt=""/>
+                    </div>
+                </div>
+                <div class="grid_4  wow fadeInLeft" data-wow-delay="0.2s">
+                    <div class="partner">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/sarawagi.png" alt=""/>
+                    </div>
+                </div>
+                <div class="grid_4  wow fadeInLeft" data-wow-delay="0.2s">
+                    <div class="partner">
+                        <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rackspace.png" alt=""/>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </div>
+
+
 
 </section>
