@@ -36,6 +36,190 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
                 <div class="partner_cnt">
                     <h3>
+                        <a href="#">Lorene Da</a>
+                    </h3>
+                    <p><b>USD $1000</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.3s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt o__hidden">
+                    <h3>
+                        <a href="#">Switchcraft (Rebecca J Hamilton + Team) </a>
+                    </h3>
+                    <p><b>USD $309</b></p>
+                </div>
+            </div>
+        </div>
+                <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Neha Limbu</a>
+                    </h3>
+                    <p><b>USD $151</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInRight" data-wow-delay="0.4s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Dev Raj Karki</a>
+                    </h3>
+                    <p><b>USD $200</b></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Christopher Smith</a>
+                    </h3>
+                    <p><b>USD $250</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.3s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt o__hidden">
+                    <h3>
+                        <a href="#">Yuping guo</a>
+                    </h3>
+                    <p><b>USD $100</b></p>
+                </div>
+            </div>
+        </div>
+                <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Kumar khatri</a>
+                    </h3>
+                    <p><b>USD $100</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInRight" data-wow-delay="0.4s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Amanda Jennings</a>
+                    </h3>
+                    <p><b>USD $75</b></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Dinesh Rawal</a>
+                    </h3>
+                    <p><b>USD $70</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.3s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt o__hidden">
+                    <h3>
+                        <a href="#">Rajan Prasai</a>
+                    </h3>
+                    <p><b>USD $50</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Nami Hangsarumba</a>
+                    </h3>
+                    <p><b>USD $40</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Anup Niroula</a>
+                    </h3>
+                    <p><b>USD $25</b></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#"> Atiba Xavier Johnson</a>
+                    </h3>
+                    <p><b>USD $15</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.3s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt o__hidden">
+                    <h3>
+                        <a href="#">William M Keller</a>
+                    </h3>
+                    <p><b>USD $25</b></p>
+                </div>
+            </div>
+        </div>
+                <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Krishna k Balami</a>
+                    </h3>
+                    <p><b>USD $20</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInRight" data-wow-delay="0.4s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Dinesh Rawal</a>
+                    </h3>
+                    <p><b>USD $70</b></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
                         <a href="#">Pavle Uroda</a>
                     </h3>
                     <p><b>USD $500</b></p>
@@ -357,5 +541,29 @@
             </div>
         </div>
 
+    </div>
+    <div class="row">
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">William M Keller</a>
+                    </h3>
+                    <p><b>USD $25</b></p>
+                </div>
+            </div>
+        </div>
+        <div class="grid_3  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
+                <div class="partner_cnt">
+                    <h3>
+                        <a href="#">Yuping Guo</a>
+                    </h3>
+                    <p><b>USD $100</b></p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>

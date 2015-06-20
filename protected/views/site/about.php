@@ -165,7 +165,7 @@
 	          <h3>
 		          <a href="#">George Quinlan</a>
 	          </h3>
-	          <p class="off1">I am Happy to help.</p>
+	          <p class="off1">Volunteer</p>
 	    </div>
 	      <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
 	          <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_girl.jpg" alt=""/>
