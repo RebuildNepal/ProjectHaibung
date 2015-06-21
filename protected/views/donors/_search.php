@@ -46,6 +46,31 @@
 		<?php echo $form->textField($model,'AnonymousStatus'); ?>
 	</div>
 
+	<div class="row">
+		<?php echo $form->label($model,'FirstName'); ?>
+		<?php echo $form->textField($model,'FirstName',array('size'=>60,'maxlength'=>100)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'LastName'); ?>
+		<?php echo $form->textField($model,'LastName',array('size'=>60,'maxlength'=>100)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'CurrencyCode'); ?>
+		<?php echo $form->textField($model,'CurrencyCode',array('size'=>5,'maxlength'=>5)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'DateCreated'); ?>
+		<?php echo $form->textField($model,'DateCreated'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'DateUpdated'); ?>
+		<?php echo $form->textField($model,'DateUpdated'); ?>
+	</div>
+
 	<div class="row buttons">
 		<?php echo CHtml::submitButton('Search'); ?>
 	</div>

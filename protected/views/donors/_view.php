@@ -3,7 +3,7 @@
 /* @var $data Donors */
 ?>
 
-<div class="view">
+<div class="view" style="margin: 10px 0">
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('DonorID')); ?>:</b>
 	<?php echo CHtml::link(CHtml::encode($data->DonorID), array('view', 'id'=>$data->DonorID)); ?>
@@ -21,16 +21,16 @@
 	<?php echo CHtml::encode($data->Amount); ?>
 	<br />
 
-	<b><?php echo CHtml::encode($data->getAttributeLabel('PerkChoice')); ?>:</b>
-	<?php echo CHtml::encode($data->PerkChoice); ?>
+	<b><?php echo CHtml::encode($data->getAttributeLabel('FirstName')); ?>:</b>
+	<?php echo CHtml::encode($data->FirstName); ?>
 	<br />
 
-	<b><?php echo CHtml::encode($data->getAttributeLabel('OptMarketing')); ?>:</b>
-	<?php echo CHtml::encode($data->OptMarketing); ?>
+	<b><?php echo CHtml::encode($data->getAttributeLabel('LastName')); ?>:</b>
+	<?php echo CHtml::encode($data->LastName); ?>
 	<br />
 
-	<b><?php echo CHtml::encode($data->getAttributeLabel('AnonymousStatus')); ?>:</b>
-	<?php echo CHtml::encode($data->AnonymousStatus); ?>
+	<b><?php echo CHtml::encode($data->getAttributeLabel('CurrencyCode')); ?>:</b>
+	<?php echo CHtml::encode($data->CurrencyCode); ?>
 	<br />
 
 

@@ -12,6 +12,8 @@ $this->menu=array(
 );
 ?>
 
+<a href="<?php echo Yii::app()->createUrl('donors/create');?>">Create Donors</a>
+
 <h1>Donors</h1>
 
 <?php $this->widget('zii.widgets.CListView', array(
