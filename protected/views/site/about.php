@@ -167,12 +167,26 @@
 	          </h3>
 	          <p class="off1">Volunteer</p>
 	    </div>
-	      <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+	    <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
 	          <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_girl.jpg" alt=""/>
 	          <h3>
 		          <a href="#">Tenzing Pela</a>
 	          </h3>
 	          <p class="off1">I am currently pursuing MBA at Thunderbird School of Global Management.</p>
+	    </div>
+	    <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+	          <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rakshya.jpg" alt=""/>
+	          <h3>
+		          <a href="#">Rakshya Bista</a>
+	          </h3>
+	          <p class="off1">I am a Product Engineer at Soterix Medical. An urge to save the entire world is a noble pursuit but it's not possible. Grab a small corner of the world and focus your energy there, that's the only way you'll make difference.</p>
+	    </div>
+	    <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+	          <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/suman.jpg" alt=""/>
+	          <h3>
+		          <a href="#">Suman Khatiwada</a>
+	          </h3>
+	          <p class="off1">Volunteer</p>
 	    </div>
     </div>
 </div>

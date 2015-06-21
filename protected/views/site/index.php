@@ -163,12 +163,6 @@
                         <a href="http://www.sarawagirugs.com/" target="_blank"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/sarawagi.png" alt=""/></a>
                     </div>
                 </div>
-                <div class="grid_4  wow fadeInLeft" data-wow-delay="0.2s">
-                    <div class="partner">
-                        <a href="http://www.rackspace.com/" target="_blank"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rackspace.png" alt=""/></a>
-                    </div>
-                </div>
-
             </div>
         </div>
     </div>

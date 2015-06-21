@@ -28,19 +28,5 @@
             </div>
         </div>
     </div>
-    
-    <div class="row" style="margin-top: 30px;">
-        <div class="grid_12  wow fadeInLeft" data-wow-delay="0.2s">
-            <div class="partner">
-                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rackspace.png" alt="" style="margin-right: 20px"/>
-                <div style="padding-left: 20px">
-                    <h3>
-                        <a href="http://www.rackspace.com/">Rackspace</a>
-                    </h3>
-                    <p> </p>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 
