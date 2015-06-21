@@ -45,6 +45,7 @@ class SiteController extends Controller {
      * Displays the login page
      */
     public function actionLogin() {
+        $this->layout = 'other';
         $model = new LoginForm;
 
         // if it is ajax validation request
@@ -107,6 +108,11 @@ class SiteController extends Controller {
     public function actionDonor(){
         $this->layout = 'other';
         $this->render('donor');
+    }
+    
+    public function actionSponsor(){
+        $this->layout = 'other';
+        $this->render('sponsor');
     }
 
 }
