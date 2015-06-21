@@ -9,10 +9,7 @@
                     <h3>
                         <a href="#">Surya Ply</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am, Lorem ipsum dolor sit am, Lorem ipsum dolor sit amadavat
-                    Lorem ipsum dolor sit am, Lorem ipsum dolor sit am, Lorem ipsum dolor sit amadavat
-                    Lorem ipsum dolor sit am, Lorem ipsum dolor sit am Lorem ipsum dolor sit amadavat
-                    Lorem ipsum dolor sit am</p>
+                    <p> </p>
                 </div>
             </div>
         </div>
@@ -26,10 +23,7 @@
                     <h3>
                         <a href="http://www.sarawagirugs.com/">Sarawagi Rugs</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am, Lorem ipsum dolor sit am, Lorem ipsum dolor sit amadavat
-                    Lorem ipsum dolor sit am, Lorem ipsum dolor sit am, Lorem ipsum dolor sit amadavat
-                    Lorem ipsum dolor sit am, Lorem ipsum dolor sit am Lorem ipsum dolor sit amadavat
-                    Lorem ipsum dolor sit am</p>
+                    <p> </p>
                 </div>
             </div>
         </div>
@@ -43,10 +37,7 @@
                     <h3>
                         <a href="http://www.rackspace.com/">Rackspace</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit am, Lorem ipsum dolor sit am, Lorem ipsum dolor sit amadavat
-                    Lorem ipsum dolor sit am, Lorem ipsum dolor sit am, Lorem ipsum dolor sit amadavat
-                    Lorem ipsum dolor sit am, Lorem ipsum dolor sit am Lorem ipsum dolor sit amadavat
-                    Lorem ipsum dolor sit am</p>
+                    <p> </p>
                 </div>
             </div>
         </div>
