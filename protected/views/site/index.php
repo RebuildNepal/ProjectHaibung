@@ -79,6 +79,7 @@
                             </li>
                         </ul>
                     </div>
+                                            <a class="btn" href="<?php echo Yii::app()->createUrl('site/sponsors'); ?>">more info</a>
                 </div>
             </div>
         </div>
