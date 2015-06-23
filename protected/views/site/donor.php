@@ -18,7 +18,7 @@
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/haibungblue_43_41.png" alt=""/>
                 <div class="partner_cnt o__hidden">
                     <h3>
-                        <a href="#">Switchcraft (Rebecca J Hamilton + Team) </a>
+                        <a href="#">Schwarzkopf (Rebecca J Hamilton + Team) </a>
                     </h3>
                     <p><b>USD $309</b></p>
                 </div>
