@@ -32,7 +32,9 @@
         <?php
         $this->widget('zii.widgets.jui.CJuiDatePicker', array(
             'model' => $model,
-            'name' => 'DonationDate',
+            'attribute' => 'DontationDate',
+            'value' => $model->DontationDate,
+            'htmlOptions' => array('style' => 'height:20px;'),
         ));
         ?>
         <?php echo $form->error($model, 'DontationDate'); ?>
@@ -42,6 +44,24 @@
         <?php echo $form->labelEx($model, 'Amount'); ?>
         <?php echo $form->textField($model, 'Amount'); ?>
         <?php echo $form->error($model, 'Amount'); ?>
+    </div>
+
+    <div class="row">
+        <?php echo $form->labelEx($model, 'FirstName'); ?>
+        <?php echo $form->textField($model, 'FirstName', array('size' => 60, 'maxlength' => 100)); ?>
+        <?php echo $form->error($model, 'FirstName'); ?>
+    </div>
+
+    <div class="row">
+        <?php echo $form->labelEx($model, 'LastName'); ?>
+        <?php echo $form->textField($model, 'LastName', array('size' => 60, 'maxlength' => 100)); ?>
+        <?php echo $form->error($model, 'LastName'); ?>
+    </div>
+
+    <div class="row">
+        <?php echo $form->labelEx($model, 'CurrencyCode'); ?>
+        <?php echo $form->textField($model, 'CurrencyCode', array('size' => 5, 'maxlength' => 5)); ?>
+        <?php echo $form->error($model, 'CurrencyCode'); ?>
     </div>
 
     <div class="row buttons">

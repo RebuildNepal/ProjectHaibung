@@ -11,6 +11,11 @@
  * @property string $PerkChoice
  * @property integer $OptMarketing
  * @property integer $AnonymousStatus
+ * @property string $FirstName
+ * @property string $LastName
+ * @property string $CurrencyCode
+ * @property string $DateCreated
+ * @property string $DateUpdated
  */
 class Donors extends BaseActiveRecord
 {
@@ -33,10 +38,12 @@ class Donors extends BaseActiveRecord
 			array('DontationDate, Amount', 'required'),
 			array('OptMarketing, AnonymousStatus', 'numerical', 'integerOnly'=>true),
 			array('Amount', 'numerical'),
-			array('EmailID, PerkChoice', 'length', 'max'=>100),
+			array('EmailID, PerkChoice, FirstName, LastName', 'length', 'max'=>100),
+			array('CurrencyCode', 'length', 'max'=>5),
+			array('DateCreated, DateUpdated', 'safe'),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('DonorID, EmailID, DontationDate, Amount, PerkChoice, OptMarketing, AnonymousStatus', 'safe', 'on'=>'search'),
+			array('DonorID, EmailID, DontationDate, Amount, PerkChoice, OptMarketing, AnonymousStatus, FirstName, LastName, CurrencyCode, DateCreated, DateUpdated', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -64,6 +71,11 @@ class Donors extends BaseActiveRecord
 			'PerkChoice' => 'Perk Choice',
 			'OptMarketing' => 'Opt Marketing',
 			'AnonymousStatus' => 'Anonymous Status',
+			'FirstName' => 'First Name',
+			'LastName' => 'Last Name',
+			'CurrencyCode' => 'Currency Code',
+			'DateCreated' => 'Date Created',
+			'DateUpdated' => 'Date Updated',
 		);
 	}
 
@@ -92,6 +104,11 @@ class Donors extends BaseActiveRecord
 		$criteria->compare('PerkChoice',$this->PerkChoice,true);
 		$criteria->compare('OptMarketing',$this->OptMarketing);
 		$criteria->compare('AnonymousStatus',$this->AnonymousStatus);
+		$criteria->compare('FirstName',$this->FirstName,true);
+		$criteria->compare('LastName',$this->LastName,true);
+		$criteria->compare('CurrencyCode',$this->CurrencyCode,true);
+		$criteria->compare('DateCreated',$this->DateCreated,true);
+		$criteria->compare('DateUpdated',$this->DateUpdated,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,

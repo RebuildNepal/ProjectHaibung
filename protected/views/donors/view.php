@@ -18,6 +18,9 @@ $this->menu=array(
 
 <h1>View Donors #<?php echo $model->DonorID; ?></h1>
 
+<a href="<?php echo Yii::app()->createUrl('donors/update', array('id' => $model->DonorID));?>">Update</a>
+<a href="<?php echo Yii::app()->createUrl('donors/delete', array('id' => $model->DonorID));?>">Delete</a>
+
 <?php $this->widget('zii.widgets.CDetailView', array(
 	'data'=>$model,
 	'attributes'=>array(
@@ -28,5 +31,10 @@ $this->menu=array(
 		'PerkChoice',
 		'OptMarketing',
 		'AnonymousStatus',
+		'FirstName',
+		'LastName',
+		'CurrencyCode',
+		'DateCreated',
+		'DateUpdated',
 	),
 )); ?>

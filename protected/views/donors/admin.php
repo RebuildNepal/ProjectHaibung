@@ -53,6 +53,11 @@ or <b>=</b>) at the beginning of each of your search values to specify how the c
 		'OptMarketing',
 		/*
 		'AnonymousStatus',
+		'FirstName',
+		'LastName',
+		'CurrencyCode',
+		'DateCreated',
+		'DateUpdated',
 		*/
 		array(
 			'class'=>'CButtonColumn',
