@@ -108,7 +108,7 @@ class SiteController extends Controller {
     public function actionDonor(){
         $this->layout = 'other';
         $criteria = new CDbCriteria();
-        $criteria->order = 'FirstName ASC';
+        $criteria->order = 'Amount DESC';
         $donors = Donors::model()->findAll($criteria);
         $this->render('donors', array('donors' => $donors));
     }
