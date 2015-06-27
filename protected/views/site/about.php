@@ -130,6 +130,14 @@
             <p class="off1">I am Software developer @ RentalCover / Carrentals. I have always wanted to do something good for
             the community in whatever way it may be. Hoping it will add up to something good.</p>
         </div>
+        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/bhavna.jpg" alt=""/>
+            <h3>
+                <a href="#">Bhavna Mittal</a>
+            </h3>
+            <p class="off1">I am a recent MBA graduate from the University of Oxford and currently in Nepal on a 6 month project with the Rocket Internet Group. 
+            .</p>
+        </div>
     </div>
 </div>
 <hr class="wow fadeInUp" data-wow-delay="0.3s"/>
