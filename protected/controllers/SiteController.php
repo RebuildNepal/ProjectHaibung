@@ -85,7 +85,7 @@ class SiteController extends Controller {
 
     public function actionBlog() {
         $this->layout = 'other';
-        $blogs = Blog::model()->findAll(array('order' => 'DateUpdated ASC'));
+        $blogs = Blog::model()->findAll(array('order' => 'DateCreated DESC'));
         $this->render('blog', array('blogs' => $blogs));
     }
 
