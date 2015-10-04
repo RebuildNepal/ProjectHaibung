@@ -196,7 +196,7 @@
             <h3>
                 <a href="#">Mohan Tamang</a>
             </h3>
-            <p class="off1">Principal of Mahadevstan School</p>
+            <p class="off1">Principal of Haibung Mahadevstan School</p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
