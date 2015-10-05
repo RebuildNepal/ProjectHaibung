@@ -134,7 +134,7 @@
 </div>
 <hr class="wow fadeInUp" data-wow-delay="0.3s"/>
 <div class="wrapper2">
-    <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Extended Team Members</h2>
+    <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Our Supporters</h2>
 
     <div class="row row__in">
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.5s">
@@ -162,51 +162,69 @@
             </h3>
             <p class="off1">I am currently pursuing MBA at Thunderbird School of Global Management.</p>
         </div>
-
-
-    </div>
-</div>
-
-<hr class="wow fadeInUp" data-wow-delay="0.3s"/>
-<div class="wrapper2">
-    <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Our Supporters</h2>
-
-    <div class="row row__in">
-        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/suman.jpg" alt=""/>
-            <h3>
-                <a href="#">Suman Khatiwada</a>
-            </h3>
-            <p class="off1">Volunteer</p>
-        </div>
-        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/bhavna.jpg" alt=""/>
-            <h3>
-                <a href="#">Bhavna Mittal</a>
-            </h3>
-            <p class="off1">I am a recent MBA graduate from the University of Oxford and currently in Nepal on a 6 month project with the Rocket Internet Group. 
-                .</p>
-        </div>
-        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/rakshya.jpg" alt=""/>
-            <h3>
-                <a href="#">Rakshya Bista</a>
-            </h3>
-            <p class="off1">I am a Product Engineer at Soterix Medical. An urge to save the entire world is a noble pursuit but it's not possible. Grab a small corner of the world and focus your energy there, that's the only way you'll make difference.</p>
-        </div>
-        <div class="grid_2  wow fadeInRight" data-wow-delay="0.2s">
-            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
-            <h3>
-                <a href="#">Parashu Nepal</a>
-            </h3>
-            <p class="off1">I am Managing director at International Development Institute(IDI) in Washington, DC, USA. Pleased to be part of young energetic team for the betterment of our motherland</p>
-        </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
             <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
             <h3>
                 <a href="#">George Quinlan</a>
             </h3>
             <p class="off1">Volunteer</p>
+        </div>
+    </div>
+</div>
+
+<hr class="wow fadeInUp" data-wow-delay="0.3s"/>
+<div class="wrapper2">
+    <h2 class=" wow fadeInUp" data-wow-delay="0.2s">School Rebuilding Committee</h2>
+
+    <div class="row row__in">
+        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
+            <h3>
+                <a href="#">Akash Dahal</a>
+            </h3>
+            <p class="off1">Social worker and liaison between the Haibung local community and Team Haibung</p>
+        </div>
+        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
+            <h3>
+                <a href="#">Basanta Gurung</a>
+            </h3>
+            <p class="off1">Active member of the Haibung Youth Association</p>
+        </div>
+        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
+            <h3>
+                <a href="#">Mohan Tamang</a>
+            </h3>
+            <p class="off1">Principal of Haibung Mahadevstan School</p>
+        </div>
+        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
+            <h3>
+                <a href="#">Sridoj Lama</a>
+            </h3>
+            <p class="off1">President of School Administration Committee</p>
+        </div>
+        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
+            <h3>
+                <a href="#">Prem Bahadur Gurung</a>
+            </h3>
+            <p class="off1">Respected member of local community</p>
+        </div>
+        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
+            <h3>
+                <a href="#">Maha Lal Dulal</a>
+            </h3>
+            <p class="off1">Respected member of local community</p>
+        </div>
+        <div class="grid_2 wow fadeInRight" data-wow-delay="0.7s">
+            <img class="img-border mt-img" src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/profile_man.jpg" alt=""/>
+            <h3>
+                <a href="#">Ram Kumar Lama</a>
+            </h3>
+            <p class="off1">Former Village Development Committee President</p>
         </div>
     </div>
 </div>
