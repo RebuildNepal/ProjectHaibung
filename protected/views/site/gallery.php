@@ -144,3 +144,133 @@
         <p class="off1">Approval letter to rebuild school</p>
     </div>
 </div>
+
+<div class="isotope">
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Available_Materials.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_Available_Materials.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Available Materials</p>
+    </div>
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Building_Design.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_Building_Design.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Building design</p>
+    </div>
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Common_Rooms.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_Common_Rooms.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Common rooms</p>
+    </div>
+</div>
+
+<div class="isotope">
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Design_Overview.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_Design_Overview.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Overview</p>
+    </div>
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Facts.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_Facts.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Facts</p>
+    </div>
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Ground_floor.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_Ground_floor.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Ground floor</p>
+    </div>
+</div>
+<div class="isotope">
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Site_Plan.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_Site_Plan.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Site plan</p>
+    </div>
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Use_Of_Structure.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_Use_Of_Structure.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Use of structure</p>
+    </div>
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_map.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_map.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Map</p>
+    </div>
+</div>
+<div class="isotope">
+    <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
+         data-category="All">
+        <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_top_View.jpg">
+            <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/small/School_top_View.jpg" alt=""/>
+            <span class="overlay"></span>
+            <span class="hover">zoom</span>
+        </a>
+        <h3>
+            <a href="#">School Design</a>
+        </h3>
+        <p class="off1">Top view</p>
+    </div>
+</div>
