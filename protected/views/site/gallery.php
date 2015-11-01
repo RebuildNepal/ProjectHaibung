@@ -143,9 +143,6 @@
         </h3>
         <p class="off1">Approval letter to rebuild school</p>
     </div>
-</div>
-
-<div class="isotope">
     <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
          data-category="All">
         <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Available_Materials.jpg">
@@ -158,6 +155,9 @@
         </h3>
         <p class="off1">Available Materials</p>
     </div>
+</div>
+
+<div class="isotope">
     <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
          data-category="All">
         <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Building_Design.jpg">
@@ -182,9 +182,6 @@
         </h3>
         <p class="off1">Common rooms</p>
     </div>
-</div>
-
-<div class="isotope">
     <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
          data-category="All">
         <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Design_Overview.jpg">
@@ -197,6 +194,9 @@
         </h3>
         <p class="off1">Overview</p>
     </div>
+</div>
+
+<div class="isotope">
     <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
          data-category="All">
         <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Facts.jpg">
@@ -221,8 +221,6 @@
         </h3>
         <p class="off1">Ground floor</p>
     </div>
-</div>
-<div class="isotope">
     <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
          data-category="All">
         <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Site_Plan.jpg">
@@ -235,6 +233,8 @@
         </h3>
         <p class="off1">Site plan</p>
     </div>
+</div>
+<div class="isotope">
     <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
          data-category="All">
         <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_Use_Of_Structure.jpg">
@@ -259,8 +259,6 @@
         </h3>
         <p class="off1">Map</p>
     </div>
-</div>
-<div class="isotope">
     <div class="element-item grid_4 praesent  wow fadeInRight" data-wow-delay="0.3s"
          data-category="All">
         <a class="gallery" data-gal href="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/schooldesign/School_top_View.jpg">

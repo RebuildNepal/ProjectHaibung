@@ -55,22 +55,9 @@
                 <h2>Goals</h2>
                 <ul class="number-list">
                     <li data-number="1">
-                        <h3>
-                            <a href="#">School for earthquake victims in Haibung</a>
-                        </h3>
-                        <p class="off1">We pledge to rebuild schools by leveraging our
-                            resources/personal networks and with the help of volunteers in
-                            the village.</p>
-                        <div class="clearfix"></div>
-                    </li>
-                    <li data-number="2">
-                        <h3>
-                            <a href="#">Every dollar ratio</a>
-                        </h3>
-                        <p class="off1">We are not a registered organization, but a team
-                            of dedicated Nepalese youth. We are driven to work for this cause
-                            from our heart, and we want to make sure every single dollar that 
-                            we raise will be used for the victims of the earthquake.</p>
+                        <p class="off1">To build a school that provides a safe and secure learning environment for the children.
+                        We are committed to building a school that drives creativity, and serves as an example to other 
+                        school rebuilding projects in Nepal</p>
                         <div class="clearfix"></div>
                     </li>
                 </ul>
