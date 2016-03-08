@@ -60,6 +60,10 @@
                         school rebuilding projects in Nepal</p>
                         <div class="clearfix"></div>
                     </li>
+                    <li data-number="2">
+                        <p class="off1">On successful completion of this project, we will continue to serve underprivileged children in the field of education and well being</p>
+                        <div class="clearfix"></div>
+                    </li>
                 </ul>
             </div>
         </div>
