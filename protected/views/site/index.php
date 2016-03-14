@@ -111,13 +111,13 @@
 
                     <h3></h3>
                     <div>
-                        <p>Haibung is a village of 576 families in Sindhupalchowk district where 95% of the houses have been destroyed including all of its five schools. Almost 720 children who come from poor family backgrounds now have no access to learning and are out of school. Their only hope for a better future is through education and now they are being stripped of this opportunity.</p>
+                        <p>Haibung is a village of 576 families in Nepal’s Sindhupalchowk district. Not only 95% of the homes were destroyed, but all five of its schools. Almost 720 children from poor families are out of school with no access to learning. Their only hope for a better future is through education, and now they are being stripped of this opportunity.</p>
                     </div>
                 </div>
                 <div class="preffix_1 grid_8  wow fadeInRight" data-wow-delay="0.2s">
                     <h2>Who are we?</h2>
 
-                    <p>We are not a registered organization. We are a team of dedicated Nepali youth who have pledged to rebuild three schools in Haibung by leveraging our resources and personal networks together with the help of volunteers in the village.</p>
+                    <p>We are not a registered organization. We are a team of dedicated young Nepali professionals who have pledged to rebuild three schools in Haibung by leveraging our personal networks and organizing local volunteers in the village.</p>
                     <a class="btn" href="<?php echo Yii::app()->createUrl('site/about'); ?>">more info</a>
                     <h3></h3>
                     <div class="row">

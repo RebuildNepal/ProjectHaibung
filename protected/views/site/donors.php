@@ -5,10 +5,9 @@
 
             <div class="box">
                 <div class="box_cnt">
-                    <p>Without the philanthropy of our donors, the school building project would not be possible. To acknowledge the gifts of our supporters permanently, we will have a donor wall which will have names of every donor inscribed, big or small.
-                        In addition, for big donor recognition, we are assigning values to potential naming spaces like classrooms, office and building blocks. They can have these spaces named after them or in memory of their loved ones.</p>
-
-
+                    <p>
+                    Without the generosity of our donors, the school building project would not be possible. To permanently acknowledge the gifts of our supporters, the name of every donor will be inscribed on a dedicated wall of the school. In addition, naming opportunities are available in recognition of larger donations as follows:
+                    </p>
                 </div>
             </div>
             <br>
@@ -17,19 +16,19 @@
                 <ul class="number-list">
                     <li data-number="1">
                         <p></p>
-                        <p class="off1" style="padding-top: 20px;">USD $5,000 to $10,000 classrooms</p>
+                        <p class="off1" style="padding-top: 20px;">USD $5,000 to $10,000:  multiple classrooms are available</p>
                         <p></p>
                         <div class="clearfix"></div>
                     </li>
                     <li data-number="2">
                         <p></p>
-                        <p class="off1" style="padding-top: 20px;">USD $10,000 to $15,000 office building (There is 1 office building)</p>
+                        <p class="off1" style="padding-top: 20px;">USD $10,000 to $15,000: one administration building is available</p>
                         <p></p>
                         <div class="clearfix"></div>
                     </li>
                     <li data-number="3">
                         <p></p>
-                        <p class="off1" style="padding-top: 20px;">USD $15k and above big block (There are 2 big blocks, one we will name after Tim & Jane Meyer Family Foundation (T&JMFF))</p>
+                        <p class="off1" style="padding-top: 20px;"> USD $15k and above: two big blocks are available (one is already reserved for our cornerstone donor, the T & J Meyer Family Foundation)</p>
                         <p></p>
                         <div class="clearfix"></div>
                     </li>
