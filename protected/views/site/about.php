@@ -72,7 +72,7 @@
                 <a href="#">Dipesh Bhattarai</a>
             </h3>
             <p class="off1">
-            I work as IT Infrastructure Support at Hall and Prior. I believe that being a part of society means reaching out to help unprivileged people. That is the least we can offer them. I would like help where I can, as much as I can and make a difference.
+            I work as IT Infrastructure Support at Hall and Prior. I believe that being a part of society means reaching out to help unprivileged people. That is the least we can offer them. I would like to help where I can, as much as I can and make a difference.
             </p>
         </div>
         <div class="grid_2 wow fadeInRight" data-wow-delay="0.6s">
