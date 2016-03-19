@@ -90,7 +90,7 @@
                 <a href="#">Girish Lamichhane</a>
             </h3>
             <p class="off1">
-            I am a Software developer at RentalCover / Carrentals. I have always wanted to do something good for the community in whatever way possible, and am hoping it will add up to something good.
+            I am a Software developer at CoverGenius. I have always wanted to do something good for the community in whatever way possible, and hoping it will add up to something good.
             </p>
         </div>
     </div>
