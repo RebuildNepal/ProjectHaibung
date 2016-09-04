@@ -7,7 +7,7 @@
             <a href="<?php echo Yii::app()->createUrl('site/about');?>">About us</a>
         </li>
         <li>
-            <a href="<?php echo Yii::app()->createUrl('site/sponsor');?>">Sponsors</a>
+            <a href="<?php echo Yii::app()->createUrl('site/sponsor');?>">Sponsors & Partners</a>
         </li>
         <li>
             <a href="<?php echo Yii::app()->createUrl('site/donor');?>">Donors</a>
