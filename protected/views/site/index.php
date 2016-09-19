@@ -156,7 +156,7 @@
             <div class="row">
                 <div class="grid_4  wow fadeInLeft" data-wow-delay="0.2s">
                     <div class="partner">
-                        <a href="http://www.nepalrising.org/" target="_blank"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/nepalrising-fairfax.png" alt=""/></a>
+                        <a href="http://www.nepalrising.org//fairfax" target="_blank"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/nepalrising-fairfax.png" alt=""/></a>
                     </div>
                 </div> 
                 <div class="grid_4  wow fadeInLeft" data-wow-delay="0.2s">
