@@ -21,7 +21,7 @@
                         <a class="fa fa-twitter" href="#"></a>
                     </li>
                    
-                   <a href="http://igg.me/at/projecthaibung/x/10971723" target="_blank" style="margin-left: 20px;"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/donate.jpeg" width="100" height="60"/></a>
+                   <a href="http://www.nepalrising.org/donate-partner/fairfax" target="_blank" style="margin-left: 20px;"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/donate.jpeg" width="100" height="60"/></a>
                     
                 </ul>
                 <?php //$this->renderPartial('//layouts/search'); ?>
