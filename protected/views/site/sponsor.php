@@ -1,6 +1,19 @@
 <div class="wrapper2 wrapper2__in1">
-    <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Our Sponsors</h2>
+    <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Our Sponsors & Partners</h2>
 
+    <div class="row">
+        <div class="grid_12  wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="partner">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/nepalrising-fairfax.png" alt="" style="margin-right: 20px"/>
+                <div style="padding-left: 20px">
+                    <h3>
+                        <a href="http://nepalrising.org">Nepal Rising</a>
+                    </h3>
+                    <p> </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="row">
         <div class="grid_12  wow fadeInLeft" data-wow-delay="0.2s">
             <div class="partner">

@@ -30,7 +30,7 @@
                 <?php echo $this->renderPartial('_index'); ?>
                 <div class="grid_3  wow fadeInRight" data-wow-delay="0.2s">
                     <div style="margin-bottom: 20px">
-                        <a href="http://igg.me/at/projecthaibung/x/10971723" target="_blank"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/donate.jpeg"></a>
+                        <a href="http://www.nepalrising.org/donate-partner/fairfax" target="_blank"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/donate.jpeg"></a>
                     </div>
 
                     <div>
@@ -154,6 +154,11 @@
             <h2 class=" wow fadeInUp" data-wow-delay="0.2s">Our Sponsors</h2>
 
             <div class="row">
+                <div class="grid_4  wow fadeInLeft" data-wow-delay="0.2s">
+                    <div class="partner">
+                        <a href="http://www.nepalrising.org//fairfax" target="_blank"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/nepalrising-fairfax.png" alt=""/></a>
+                    </div>
+                </div> 
                 <div class="grid_4  wow fadeInLeft" data-wow-delay="0.2s">
                     <div class="partner">
                         <a href="#" target="_blank"><img src="<?php echo Yii::app()->request->baseUrl; ?>/asset/images/surya.jpeg" alt=""/></a>
